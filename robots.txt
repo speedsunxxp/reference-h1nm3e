@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://speedsunxxp.github.io/reference-h1nm3e/sitemap.xml
